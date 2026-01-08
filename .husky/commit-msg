@@ -4,9 +4,9 @@
 
 # Examples:
 
-# - feat: [TSPS-123] add user authentication
+# - feat: [TSDK-123] add user authentication
 
-# - fix: [TSPS-456] resolve login bug
+# - fix: [TSDK-456] resolve login bug
 
 # - docs: update API documentation
 

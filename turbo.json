@@ -16,6 +16,15 @@
     "dev": {
       "cache": false,
       "persistent": true
+    },
+    "test": {
+      "dependsOn": ["transit"]
+    },
+    "test:e2e": {
+      "cache": false
+    },
+    "transit": {
+      "dependsOn": ["^transit"]
     }
   }
 }
