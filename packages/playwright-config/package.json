@@ -1,0 +1,11 @@
+{
+  "name": "@repo/playwright-config",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./base": "./base.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
